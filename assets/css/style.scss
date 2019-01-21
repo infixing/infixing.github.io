@@ -2,3 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
+/* unvisited link */
+a:link {
+  color: #FFD700;
+}
+
+/* visited link */
+a:visited {
+  color: #FFC800;
+}
+
+/* mouse over link */
+a:hover {
+  color: #BDB76B;
+}
+
+/* selected link */
+a:active {
+  color: #FF7F50;
+}
