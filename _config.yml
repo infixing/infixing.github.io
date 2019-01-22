@@ -1,5 +1,6 @@
 name: i-n-f-i-x-i-n-g
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+timezone: America/Chicago
 
 theme: jekyll-theme-tactile
