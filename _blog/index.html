@@ -2,8 +2,8 @@
 layout: default
 title: overthinker always overthinking things
 ---
-<ul class="entries">
-  {% for post in paginator.posts limit:1 %}
+ul class="entries">
+  {% for post in paginator.posts %}
   <li>
     <a href="{{ post.url }}">
     <h3>{{ post.title }}</h3>
@@ -11,7 +11,5 @@ title: overthinker always overthinking things
     <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
     </a>
   </li>
-  
-  {% assign post = site.posts.first %}
   {% endfor %}
 </ul>
