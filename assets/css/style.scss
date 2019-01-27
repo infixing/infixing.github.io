@@ -4,19 +4,19 @@
 @import "{{ site.theme }}";
 body {
   background-color: #F5F5F5;
-  font: 18px, $serif;
+  font: 16px, $serif;
   
 }
 
-h1 { font-size: 25px; }
+h1 { font-size: 23px; }
 
-h2 { font-size: 23px; }
+h2 { font-size: 22px; }
 
-h3 { font-size: 22px; }
+h3 { font-size: 21px; }
 
-h4 { font-size: 21px;  }
+h4 { font-size: 20px;  }
 
-p { font-size: 20px; }
+p { font-size: 18px; }
 
 /* unvisited link */
 a:link {
