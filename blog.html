@@ -2,12 +2,11 @@
 layout: default
 title: i-n-f-i-x-i-n-g
 ---
-<h1>Latest Posts</h1>
+<h2>thoughts, notes, etc.</h2>
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
