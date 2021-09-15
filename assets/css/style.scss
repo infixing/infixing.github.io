@@ -61,7 +61,12 @@ table {
   border-style: none;
 }
 
-td, tr { 
+td { 
+  text-align: left; 
+  border-style: none;
+}
+
+tr { 
   text-align: left; 
   padding: 5px;
   border-style: none;
