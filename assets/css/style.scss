@@ -55,4 +55,12 @@ a:active {
   color: #F5F5F5;
 }
 
-td, tr { text-align: left; }
+table {
+  table-layout: fixed;
+  width: auto;
+  border: none;
+}
+
+td, tr { 
+  text-align: left; 
+}
