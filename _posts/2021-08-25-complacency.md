@@ -21,4 +21,4 @@ But a bug or a feature? I turn this over and over and next thing I know it's 2 a
 
 That is: which battles to pick, finding a balance. There are tasks that I'm good at and also those that I enjoy, and one or two at which I excel. Unsurprisingly, there are tasks I don't particularly like or could improve at. I also know are part of the job. Having Learned from Last Time, but also because I'm fairly new to this organization, I mind my own business (mostly). Sadly, this is partially informed by admin's neglect of staff. 
 
-The long-timers and more recent hires all point out issues common to such organizations--not enough money, time, or people--and how these are exacerbated in this especially bureaucratic context. The choir comprises admin, community members, and other services agencies, exhorting do, <em>be</b> more!
+The long-timers and more recent hires all point out issues common to such organizations--not enough money, time, or people--and how these are exacerbated in this especially bureaucratic context. The choir comprises admin, community members, and other services agencies, exhorting do, <em>be</em> more!
