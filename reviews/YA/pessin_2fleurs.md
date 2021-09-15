@@ -2,7 +2,7 @@
 layout: default
 title: Pessin, D. Deux fleurs en hiver.
 category: Reviews
-tags: [french-language, odd couples, YA]
+tags: french_language odd_couples YA
 ---
 <span class="title">Deux fleurs en hiver</span> by Delphine Pessin.<br>
 <span class="publisher">Didier Jeunesse, 2020. 192 pages.</span><br><br>
