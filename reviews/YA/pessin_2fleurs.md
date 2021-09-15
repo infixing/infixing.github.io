@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: default
 title: Pessin, D. Deux fleurs en hiver.
 ---
 
