@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: review
 title: Allen-Angostini, L. Home Home.
 category: Reviews
 tags: canadian mental-health queer-SC YA
