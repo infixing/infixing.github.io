@@ -58,12 +58,11 @@ a:active {
 table {
   table-layout: fixed;
   width: auto;
-  spacing: 5px;
 }
 
 td, tr { 
   text-align: left; 
   }
 tr { 
-  padding-right: 15px;
+  spacing-right: 15px;
 }
