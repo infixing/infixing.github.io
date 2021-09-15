@@ -35,6 +35,16 @@ body {
   background-color: #4CAF50;
   color: white;
 }
+
+.title, .author {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.publisher {
+	font-size: 12px;
+}
+		
 </style>
 </head>
 <body>
