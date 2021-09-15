@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: review
 title: Pessin, D. Deux fleurs en hiver.
 category: Reviews
 tags: french_language odd_couples YA
