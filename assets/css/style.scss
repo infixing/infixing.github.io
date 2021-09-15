@@ -24,6 +24,10 @@ p { font-size: 18px; }
 span
   .title { font-weight: bold; }
 .publisher { font-size: 16px;}
+.book1 {
+  max-width: 100px;
+  height: 147px;
+}
 
 /* unvisited link */
 a:link {
@@ -43,9 +47,4 @@ a:hover {
 /* selected link */
 a:active {
   color: #F5F5F5;
-}
-
-img.book1 {
-  max-width: 100px;
-  height: 147px;
 }
