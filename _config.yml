@@ -9,7 +9,7 @@ paginate: 3
 paginate_path: /page:num/
 
 collections:
-  tags:
+  review_tags:
     output: true
     permalink: /reviews/tags/:name/
 
