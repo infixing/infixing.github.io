@@ -2,7 +2,7 @@
 layout: review
 title: Allen-Angostini, L. Home Home.
 category: Reviews
-tags: [canadian mental_health queer-SC lgbtq+]
+tags: [canadian, mental_health, queer-SC, lgbtq+]
 ---
 <span class="title">Home Home</span> by Lisa Allen-Angostini.<br>
 <span class="publisher">Delacorte Press, 2020; originally published by Papelote Press, 2018. 160 pages.</span><br><br>
