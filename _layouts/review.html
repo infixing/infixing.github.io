@@ -9,9 +9,9 @@ layout: default
     {{ content }}
 </div>
 
-<span style="tag;font-size:13px">
-Tags: {% for tag in page.tags %}
+<span style="tag;font-size:14px">Tags:
+  {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>&nbsp;
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
-    </span>
+]</span>
