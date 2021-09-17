@@ -8,4 +8,9 @@ plugins: [jekyll-paginate]
 paginate: 3
 paginate_path: /page:num/
 
+collections:
+  reviews:
+    output: true
+    permalink: /blog/category/:name/
+
 theme: jekyll-theme-tactile
