@@ -1,16 +1,10 @@
 ---
-layout: reviews
+layout: review
 title: Tags
 ---
-<h3> Select subjects </h3>
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<h3>Reviews tagged with "{{ page.tag-name }}"</h3> 
+{% for post in site.posts %} 
+{% if post.tags contains page.tag-name %} 
+{% include snippet.html %} 
+{% endif %} 
 {% endfor %}
-  
-  
