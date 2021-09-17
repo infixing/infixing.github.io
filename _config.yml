@@ -9,8 +9,8 @@ paginate: 3
 paginate_path: /page:num/
 
 collections:
-  reviews:
+  tags:
     output: true
-    permalink: /blog/category/:name/
+    permalink: /reviews/tags/:name/
 
 theme: jekyll-theme-tactile
