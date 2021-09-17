@@ -2,4 +2,8 @@
 layout: review
 title: Tags
 ---
-<div class="snippets"> <h1 class="snippets-heading">Reviews tagged with "{{ page.tag-name }}"</h1> {% for post in site.posts %} {% if post.tags contains page.tag-name %} {% include snippet.html %} {% endif %} {% endfor %} </div>
+{% assign category = site.tags | where: "slug", post.category %}
+{% assign category = category[0] %}
+{% if category %}
+    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+{% endif %}
