@@ -8,9 +8,4 @@ plugins: [jekyll-paginate]
 paginate: 3
 paginate_path: /page:num/
 
-collections:
-  tags:
-    output: true
-    permalink: /reviews/tags/:name/
-
 theme: jekyll-theme-tactile
