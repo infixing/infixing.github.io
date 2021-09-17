@@ -3,33 +3,14 @@ layout: reviews
 title: Tags
 ---
 <h3> Select subjects </h3>
-<div class="tags-expo">
-  
-  <div class="tags-expo-list">
-    {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}">
-      <div class="tag">{{ tag[0] }}</div>  
-    </a>
-    {% endfor %}
-  </div>
-  
-  <hr />
 
-  <div class="tags-expo-section">
-    {% for tag in site.tags %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-      <a class="ay-list" href="{{ site.baseurl }}{{ post.url }}">
-        <li>
-          {{ post.title }}
-          <!-- Add the below line if you want the date to be displayed -->
-          <small class="post-date">{{ post.date | date_to_string }}</small> 
-        </li>
-      </a>
-      {% endfor %}
-    </ul>
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  </div>
-
-</div>
+  </ul>
+{% endfor %}
+  
+  
