@@ -1,6 +1,3 @@
----
-layout: default
----
 % assign post = page %}
 {% if post.tags.size > 0 %}
     {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
@@ -18,6 +15,10 @@ layout: default
 {% else %}
     {% assign tags_content = '' %}
 {% endif %}
+
+---
+layout: default
+---
 
 <h3>Book review</h3>
 
