@@ -1,3 +1,9 @@
+{% assign category = site.reviews | where: "slug", post.category %}
+{% assign category = category[0] %}
+{% if category %}
+    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+{% endif %}
+
 ---
 layout: default
 ---
@@ -7,8 +13,5 @@ layout: default
     {{ content }}
 </div>
 
-{% assign category = site.reviews | where: "slug", post.category %}
-{% assign category = category[0] %}
-{% if category %}
-    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
-{% endif %}
+
+<p id="post-meta">{{ category_content }}</p>
