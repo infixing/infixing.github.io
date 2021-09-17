@@ -2,7 +2,7 @@
 layout: review
 title: Kadarusman, M. Music for Tigers.
 category: Reviews
-tags: canadian middle_grade australian tasmanian conservation environment
+tags: [canadian middle_grade australian tasmanian conservation environment]
 ---
 <span class="title">Music for Tigers</span> by Michelle Kadarusman.<br>
 <span class="publisher"><a href="https://pajamapress.ca/" target="_blank" title="Pajama Press">Pajama Press</a>, 2020. 224 pages.</span><br><br>
