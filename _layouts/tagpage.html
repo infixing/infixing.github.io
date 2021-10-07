@@ -4,5 +4,5 @@ layout: default
 <h3>Tag: {{ page.tag }}</h3>
 
 {% for post in page.tag %}
-<li><span><a href="{{ site.page }}">{{ site.page }}</a></span></li>
+<li><span><a href="{{ post.tag }}">{{ post.title }}</a></span></li>
 {% endfor %}
