@@ -3,6 +3,6 @@ layout: default
 ---
 <h3>Tag: {{ page.tag }}</h3>
 
-{% for post in page.tag %}
+{% for page in page.tag %}
 <li><span><a href="{{ page.url }}">{{ page.title }}</a></span></li>
 {% endfor %}
