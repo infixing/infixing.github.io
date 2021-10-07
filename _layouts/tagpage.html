@@ -3,6 +3,6 @@ layout: default
 ---
 <h3>Tag: {{ page.tag }}</h3>
 
-{% for post in site.tag %}
+{% for post in page.tag %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
