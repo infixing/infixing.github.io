@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<h3>Tag: {{ site.tag }}</h3>
+<h3>Tag: {{ page.tag }}</h3>
 
-{% for post in site.tag %}
-<li><span><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for post in page.tag %}
+<li><span><a href="{{ review/post.url }}">{{ review/post.title }}</a></li>
 {% endfor %}
