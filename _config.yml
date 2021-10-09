@@ -4,19 +4,8 @@ permalink: /blog/:year/:month/:day/:title
 timezone: America/Eastern
 future: true
 
-collections:
-  tags:
-    output: true
-    permalink: tags/:path/
-
 plugins: [jekyll-paginate] 
 paginate: 3
 paginate_path: /page:num/
-
-gems:
-- jekyll/tagging
-
-tag_page_layout: tagpage
-tag_page_dir: tags
 
 theme: jekyll-theme-tactile
