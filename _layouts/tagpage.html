@@ -4,7 +4,7 @@ layout: default
 <div class="post">
   <h3>Tag: {{ page.tag }}</h3>
 <ul>
-{% for page in site.tags[page.tag] %}
+{% for page in site.reviews[page.tag] %}
   <li><a href="{{ page.url }}">{{ page.title }}</a>
   </li>
 {% endfor %}
