@@ -11,4 +11,3 @@ Tag: {{ page.tag }}
 {% endfor %}
 </ul>
 </div>
-<hr>
