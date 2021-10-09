@@ -5,7 +5,6 @@ timezone: America/Eastern
 future: true
 
 plugins: [jekyll-paginate] 
-plugins: [jekyll-tags]
 paginate: 3
 paginate_path: /page:num/
 
