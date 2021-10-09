@@ -9,10 +9,10 @@ layout: default
 
 {{ t | downcase }}
 <ul>
-{% for page in reviews %}
-  {% if page.tags contains t %}
+{% for post in reviews %}
+  {% if post.tags contains t %}
   <li>
-    <a href="{{ reviews.url }}">{{ reviews.title }}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endif %}
 {% endfor %}
