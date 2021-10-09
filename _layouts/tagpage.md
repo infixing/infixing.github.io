@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-Tag: {{ tagname }}
+Tag: {{ page.tag }}
 <ul>
 {% for post in site.tags[page.tag] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
