@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="post">
-  <h3>Tag: {{ page.tag }}</h3>
+  <h3>Tag: {{ page.tags }}</h3>
 <ul>
-  {% for post in site.tags[page.tag] %}
+  {% for post in site.tags[page.tags] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
