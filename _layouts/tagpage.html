@@ -4,18 +4,7 @@ layout: default
 <div class="post">
 <h3>Tagged {{ page.tag }}</h3>
 
-  {% for page.tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign pages = tag | last %}
-
-{{ t | downcase }}
-<ul>
-{% for page in pages %}
-  {% if page.tag contains t %}
-  <li>
-    <a href="{{ page.url }}">{{ page.title }}</a>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
+     {% if page.tags contains tag.name or tag.name == page.tags %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a>
+    {% endif %}
 {% endfor %}
