@@ -5,7 +5,7 @@ timezone: America/Eastern
 future: true
 
 collections:
-  tags:
+  tag:
     output: true
     permalink: tag/:title/
 
