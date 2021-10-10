@@ -7,8 +7,16 @@ future: true
 collections:
   tags:
     output: true
-    permalink: tags/:path/
+    permalink: tag/:title/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: tagpage
+      
 plugins: [jekyll-paginate] 
 paginate: 3
 paginate_path: /page:num/
