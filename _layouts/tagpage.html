@@ -4,7 +4,7 @@ layout: default
 <div class="post">
 <h3>Tagged {{ page.tag }}</h3>
 
-  {% for tag in site.tags %}
+  {% for page.tag in site.tags %}
   {% assign t = tag | first %}
   {% assign pages = tag | last %}
 
