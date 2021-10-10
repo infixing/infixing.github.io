@@ -4,10 +4,18 @@ layout: default
 <div class="post">
 <h3>Tagged {{ page.tag }}</h3>
 
-<ul>
-  {% for post in site.tags %}
-    <li>
-      <a href="{{ reviews.url  }}">{{ reviews.title }}</a>
-    </li>
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
   {% endfor %}
-</ul>
+{% endcapture %}
+{% assign sortedtags = tags | split:' ' | sort %}
+
+{% for tag in sortedtags %}
+  <h3 id="{{ tag }}">{{ tag }}</h3>
+  <ul>
+  {% for post in site.tags[tag] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}
