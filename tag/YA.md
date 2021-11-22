@@ -1,5 +1,6 @@
 --
-layout: review
+layout: reviews
+title: Young adult
 --
 
 {% for post in site.tags.YA %}
