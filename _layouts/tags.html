@@ -1,24 +1,13 @@
 ---
-layout: reviews
-permalink: /tags/
-title: Tags
+layout: default
 ---
 
+<div class="snippets">
+  <h1 class="snippets-heading">Articles tagged with "{{ page.tag-name }}"</h1>
 
-<div id="archives">
-{% for tag in site.tags %}
-  <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <div id="#{{ tag_name | slugize }}"></div>
-    <p></p>
-
-    <h3 class="tag-head">{{ tag_name }}</h3>
-    <a name="{{ tag_name | slugize }}"></a>
-    {% for post in site.tags[tag_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
-{% endfor %}
+  {% for post in site.posts %}
+    {% if post.tags contains page.tag-name %}
+      {% include snippet.html %}
+    {% endif %}
+  {% endfor %}
 </div>
