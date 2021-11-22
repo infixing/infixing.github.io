@@ -3,19 +3,6 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 timezone: America/Eastern
 future: true
-
-collections:
-  tag:
-    output: true
-    permalink: tag/:title/
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: tags
-    values:
-      layout: tagpage
       
 plugins: [jekyll-paginate] 
 paginate: 3
