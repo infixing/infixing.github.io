@@ -1,6 +1,4 @@
 --
-...
 layout: default
 tag-name: tag1 tag2
-...
 --
