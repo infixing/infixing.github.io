@@ -3,5 +3,5 @@ layout: tagpage
 title: "Tag: family"
 tag: family
 ---
-· <em>Home Home</em> (L. Allen Angostini, 2020)</br>
-· <em>Up and Down Mom</em> (Child's Play Australia, 2020)
+· <em><a href="https://infixing.github.io/reviews/YA/allen-agostini_home.html">Home Home</a></em> (L. Allen Angostini, 2020)</br>
+· <em><a href="https://infixing.github.io/reviews/kids/cp_mom.html">Up and Down Mom</a></em> (Child's Play Australia, 2020)
