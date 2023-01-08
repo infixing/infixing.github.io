@@ -11,6 +11,6 @@ paginate_path: /page:num/
 collections:
   tags:
     output: true
-    permalink: tags/:path/
+    permalink: /:collection/:name
       
 theme: jekyll-theme-tactile
