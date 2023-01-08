@@ -12,7 +12,7 @@ collections:
   tags:
     output: true
     permalink: tags/:path/
-    tag_page_layout: tag_page
-      tag_page_dir: tag
+    tagpage_layout: tagpage
+      tagpagedir: tag
       
 theme: jekyll-theme-tactile
