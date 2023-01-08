@@ -12,7 +12,5 @@ collections:
   tags:
     output: true
     permalink: tags/:path/
-    tagpage_layout: tagpage
-      tagpage_dir: tag
       
 theme: jekyll-theme-tactile
