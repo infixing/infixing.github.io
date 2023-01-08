@@ -3,4 +3,4 @@ layout: tagpage
 title: "Tag: french language"
 tag: french_language
 ---
-· <em>Deux fleurs en hiver</em> (D. Pessin, 2020)</br>
+· <em><a href="https://infixing.github.io/reviews/YA/pessin_2fleurs.html">Deux fleurs en hiver</a></em> (D. Pessin, 2020)</br>
