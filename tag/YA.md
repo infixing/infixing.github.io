@@ -2,7 +2,6 @@
 layout: tagpage
 title: "Tag: YA"
 tag: YA
----
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -11,3 +10,4 @@ tag: YA
     {% endfor %}
   </ul>
 {% endfor %}
+---
