@@ -1,4 +1,3 @@
-
 ---
 layout: review
 title: Tai, E. Yes Means Yes.
