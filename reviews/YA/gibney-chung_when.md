@@ -1,6 +1,6 @@
 ---
 layout: review
-title: Gibney, S. and Chung, N. When We Become Ours: A YA Adoptee Anthology.
+title: Gibney, S. and Chung, N. When We Become Ours.
 category: Reviews
 tags: [YA, adoption, identity]
 ---
