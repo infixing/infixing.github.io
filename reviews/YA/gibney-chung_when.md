@@ -1,6 +1,6 @@
 ---
 layout: review
-title: Allen-Angostini, A. Home Home.
+title: Gibney, S. and Chung, N. When We Become Ours: A YA Adoptee Anthology.
 category: Reviews
 tags: [YA, adoption, identity]
 ---
