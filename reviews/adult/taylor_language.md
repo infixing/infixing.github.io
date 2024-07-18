@@ -1,6 +1,6 @@
 ---
 layout: review
-title: Taylor, C. The Language Animal: The Full Shape of the Human Linguistic Capacity.
+title: Taylor, C. The Language Animal. The Full Shape of the Human Linguistic Capacity.
 category: Reviews
 tags: [language, linguistics, philosophy]
 ---
