@@ -232,7 +232,7 @@ width: 200px;
 
 .popup {
   width:400px;
-  background-color: #e8bcf0;
+  background-color: #43bf82;
   border-radius: 3mm;
   top: 50%;
   left:50%;
@@ -248,9 +248,9 @@ width: 200px;
 }
 
 .popup button {
-  background-color: #e8bcf0;
-  border: 1px solid #e8bcf0;
-  color: #e8bcf0;
+  background-color: #43bf82;
+  border: 1px solid #872e5a;
+  color: #ffffff;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -262,9 +262,9 @@ width: 200px;
 }
 
 .popup button:hover {
-  background-color: #e8bcf0;
-  border: 2px solid #e8bcf0;
-  color: #e8bcf0;
+  background-color: #43bf82;
+  border: 2px solid #872e5a;
+  color: #ffffff;
   display: block;
   font-weight: bolder;
   text-align: center;
@@ -294,9 +294,9 @@ fieldset {
 /* Buttons */
 
 button {
-  background-color: #e8bcf0;
-  border: 1px solid #43bf82;
-  color: #e8bcf0;
+  background-color: #43bf82;
+  border: 1px solid #872e5a;
+  color: #43bf82;
   display: block;
   border-radius: 6px;
   text-align: center;
