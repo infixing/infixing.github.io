@@ -91,14 +91,14 @@ h2 {
   font-size: 45px;
   margin-top: 15px;
   color: #bf4380;
-  align: middle;
+  text-align: middle;
 }
 
 #bio p {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
-  align: middle;
+  text-align: middle;
 }
 
 .bioimage {
