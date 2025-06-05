@@ -1,5 +1,5 @@
 body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   margin: 0;padding: 0;
 }
 
@@ -35,24 +35,23 @@ body {
   padding-right: 1cm;
 }
 
-.profile_name {
+.navname {
   padding-left: 50px;
   color: #fff;
-  font-size: 16px;
-}
-
-.profile_name .contact_info {
-  font-size: 15px;
-  font-style: italic;
+  font-size: 25px;
   display: flex;
   align-items: center;
   flex-direction: row;
 }
 
-.contact_info img {
-  width:25px;
-  margin-right: 10px;
-  float:left;
+.email {
+  padding-left: 50px;
+  color: #fff;
+  font-size: 15px;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 }
 
 /* Titles */
