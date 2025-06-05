@@ -159,7 +159,7 @@ width: 200px;
 }
 
 .projects-container hr {
-  border: 1px solid lightgray;
+  border: 1px dotted #4380bf;
   width: 75%;
   margin-left: 5cm;
 }
@@ -250,7 +250,7 @@ width: 200px;
 .popup button {
   background-color: #43bf82;
   border: 1px solid #872e5a;
-  color: #ffffff;
+  color: #fff;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -264,7 +264,7 @@ width: 200px;
 .popup button:hover {
   background-color: #43bf82;
   border: 2px solid #872e5a;
-  color: #ffffff;
+  color: #fff;
   display: block;
   font-weight: bolder;
   text-align: center;
@@ -296,7 +296,7 @@ fieldset {
 button {
   background-color: #43bf82;
   border: 1px solid #872e5a;
-  color: #43bf82;
+  color: #fff;
   display: block;
   border-radius: 6px;
   text-align: center;
