@@ -114,6 +114,7 @@ width: 200px;
   display: flex;
   flex-direction: row;
   flex-flow: wrap;
+  align: center;
 }
 
 .skill {
