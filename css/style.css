@@ -113,7 +113,6 @@ width: 200px;
 .skillset {
   display: flex;
   flex-direction: row;
-  flex-flow: wrap;
   margin-top: 30px;
   margin-left: 60px;
 }
