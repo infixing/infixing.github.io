@@ -172,6 +172,7 @@ width: 200px;
 .project-card {
   margin: 0 15px 15px 30px;
   padding-bottom: 5px;
+  font-size: 20px;
 }
 
 .project-card h3 {
@@ -180,7 +181,6 @@ width: 200px;
 }
 
 .project-card ul {
-  font-size: 20px;
   margin-left: 30px;
 }
 
