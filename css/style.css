@@ -191,7 +191,7 @@ width: 200px;
 }
 
 .recstext {
-  font-color: white;
+  font-color: #ffffff;
   font-style: italic;
   text-align: left;
   width: 21.875rem;
@@ -207,7 +207,7 @@ width: 200px;
 }
 
 .recstext span {
-  color: white;
+  color: #ffffff;
   font-size: 15px;
   font-family: 'Arial', sans-serif;
 }
