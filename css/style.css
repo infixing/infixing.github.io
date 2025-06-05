@@ -1,6 +1,6 @@
 body {
   font-family: 'Arial,' sans-serif;
-  margin: 0;padding: 0;
+  margin: 5;padding: 0;
 }
 
 /* Navigation Bar */
@@ -16,7 +16,7 @@ body {
 }
 
 .topmenu {
-  color: white;
+  color: #ffffff;
   margin: 5px;
   padding: 10px;
   font-size: 15px;
