@@ -125,7 +125,7 @@ width: 200px;
 }
 
 .skill img {
-  height: 20px;
+  height: 10px;
   align-items: center;
 }
 
@@ -263,8 +263,8 @@ width: 200px;
 
 .popup button:hover {
   background-color: #fff;
-  border: 2px solid #7600bc;
-  color: #7600bc;
+  border: 2px solid #e8bcf0;
+  color: #e8bcf0;
   display: block;
   font-weight: bolder;
   text-align: center;
