@@ -198,7 +198,7 @@ width: 200px;
   padding: 10px;
 }
 
-.recstext {
+.rectext {
   font-color: #fff;
   font-style: italic;
   text-align: left;
@@ -214,10 +214,12 @@ width: 200px;
   height:150px
 }
 
-.recstext span {
+.rectext span {
   color: #fff;
   font-size: 15px;
   font-family: 'Arial', sans-serif;
+  font-style: italic;
+  text-align: left;
 }
 
 /* Scroll to Top Button */
