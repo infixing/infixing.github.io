@@ -113,8 +113,7 @@ width: 200px;
 .skillset {
   display: flex;
   flex-direction: row;
-  margin-top: 30px;
-  margin-left: 60px;
+  flex-flow: wrap;
 }
 
 .skill {
@@ -200,7 +199,7 @@ width: 200px;
 }
 
 .recstext {
-  font-color: #ffffff;
+  font-color: #fff;
   font-style: italic;
   text-align: left;
   width: 21.875rem;
@@ -216,7 +215,7 @@ width: 200px;
 }
 
 .recstext span {
-  color: #ffffff;
+  color: #fff;
   font-size: 15px;
   font-family: 'Arial', sans-serif;
 }
