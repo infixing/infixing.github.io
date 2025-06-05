@@ -275,7 +275,7 @@ width: 200px;
 /* Recommendation Form */
 
 input, textarea {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  font-family: 'Arial', sans-serif; 
   margin: 10px;  
   width:100%;
 }
@@ -295,7 +295,7 @@ fieldset {
 
 button {
   background-color: #fff;
-  border: 1px solid #7600bc;
+  border: 1px solid #43bf82;
   color: #7600bc;
   display: block;
   border-radius: 6px;
@@ -307,8 +307,8 @@ button {
 }
 
 button:hover {
-  background-color: #7600bc;
-  border: 1px solid #7600bc;
+  background-color: #43bf82;
+  border: 1px solid #872e5a;
   color: #fff;
   display: block;
   border-radius: 6px;
