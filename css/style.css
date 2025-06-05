@@ -101,7 +101,7 @@ h2 {
 .aboutimage {
   width: 300px;
   height: 250px;
-  vertical-align: middle;
+  vertical-align: left;
   margin: 5px;
 }
 
