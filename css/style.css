@@ -106,19 +106,19 @@ h2 {
 
 /* Skills */
 
-.all_skills {
+.skillset {
   display: flex;
   flex-direction: row;
   flex-flow: wrap;
 }
 
 .skill {
-  border: 1px solid gray;
+  border: 1px #872e5a;
   display: block;
-  border-radius: 6px;
+  border-radius: 4px;
   text-align: center;
-  margin: 40px;
-  padding: 10px;
+  margin: 30px;
+  padding: 5px;
   width: 2in;
   font-size: 20px;
   box-shadow: 0 2px 8px #bf4380;
