@@ -223,6 +223,13 @@ width: 200px;
   text-align: left;
 }
 
+.rectext span2 {
+  color: #fff;
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+  text-align: left;
+}
+
 /* Scroll to Top Button */
 
 .iconbutton{
