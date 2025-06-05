@@ -191,6 +191,7 @@ h2 {
 }
 
 .recstext {
+  font-color: white;
   font-style: italic;
   text-align: left;
   width: 21.875rem;
@@ -206,7 +207,7 @@ h2 {
 }
 
 .recstext span {
-  color: #ffffff;
+  color: white;
   font-size: 15px;
   font-family: 'Arial', sans-serif;
 }
