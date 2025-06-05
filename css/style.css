@@ -98,6 +98,8 @@ h2 {
 }
 
 .bioimage {
+width: 400px;
+  height: 400px;
   vertical-align: center;
   margin: 10px;
 }
