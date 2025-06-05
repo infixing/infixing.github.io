@@ -181,7 +181,7 @@ h2 {
 
 /* Recommendations */
 
-.all_recommendations {
+.recs {
   display: flex;
   align-items: center;
   margin-left: 0;
@@ -190,12 +190,12 @@ h2 {
   padding: 20px;
 }
 
-.recommendation {
+.recstext {
   font-style: italic;
   text-align: left;
   width: 21.875rem;
   padding: 1rem;
-  background-color: #bf4380;
+  background-color: #43bf82;
   border-radius: 11px;
   box-shadow: 0 3px 10px var(--primary-shadow);
   padding: 20px;
@@ -205,9 +205,9 @@ h2 {
   height:150px
 }
 
-.recommendation span {
-  color: bf4380;
-  font-size: 20px;
+.recstext span {
+  color: #fff;
+  font-size: 15px;
   font-family: 'Arial', sans-serif;
 }
 
