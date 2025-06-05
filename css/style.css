@@ -98,8 +98,8 @@ h2 {
 }
 
 .aboutimage {
-  width: 300px;
-  height: 250px;
+  width: 400px;
+  height: 300px;
   vertical-align: center;
   margin: 5px;
 }
@@ -117,11 +117,11 @@ h2 {
   display: block;
   border-radius: 6px;
   text-align: center;
-  margin: 50px;
+  margin: 40px;
   padding: 10px;
   width: 2in;
   font-size: 20px;
-  box-shadow: 0 3px 10px gray;
+  box-shadow: 0 2px 8px #bf4380;
 }
 
 .skill img {
