@@ -249,8 +249,9 @@ width: 200px;
 /* Form Pop-up */
 
 .popup {
-  width:400px;
-  background-color: #43bf82;
+  width:300px;
+  background-color: #bf4380;
+  text-color: #fff;
   border-radius: 3mm;
   top: 50%;
   left:50%;
@@ -267,7 +268,7 @@ width: 200px;
 
 .popup button {
   background-color: #43bf82;
-  border: 1px solid #872e5a;
+  border: 1px solid #2e875b;
   color: #fff;
   display: block;
   border-radius: 6px;
@@ -281,7 +282,7 @@ width: 200px;
 
 .popup button:hover {
   background-color: #43bf82;
-  border: 2px solid #872e5a;
+  border: 1px solid #2e875b;
   color: #fff;
   display: block;
   font-weight: bolder;
