@@ -125,11 +125,11 @@ width: 200px;
 }
 
 .skill img {
-  height: 10px;
+  height: 12px;
   align-items: center;
 }
 
-.skills h6 {
+.skills h5 {
   align-items: center;
   font-size: 30px;
   margin-block-start: 8px;
