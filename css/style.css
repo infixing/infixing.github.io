@@ -94,7 +94,7 @@ h2 {
 #bio p {
   font-size: 25px;
   color: rgb(128, 128, 128);
-  margin-top: 5cm;
+  margin-top: -1cm;
 }
 
 .bioimage {
