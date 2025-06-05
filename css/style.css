@@ -133,7 +133,7 @@ width: 200px;
   align-items: center;
 }
 
-.skills h5 {
+.skill h5 {
   align-items: center;
   font-size: 30px;
   margin-block-start: 8px;
@@ -141,7 +141,7 @@ width: 200px;
   font-weight: bold;
 } 
 
-.skills p {
+.skill p {
   align-items: center;
   font-size: 15px;
   color: gray;
