@@ -80,24 +80,24 @@ h2 {
 
 /* About Me */
 
-.about-me {
+.bio {
   display: flex;
   align-items: center;
 }
 
-#about-me h1 {
+#bio h1 {
   font-size: 45px;
   margin-top: 90px;
   color: #bf4380;
 }
 
-#about-me p {
+#bio p {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
 }
 
-.aboutimage {
+.bioimage {
   width: 400px;
   height: 300px;
   vertical-align: center;
