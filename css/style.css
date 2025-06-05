@@ -181,7 +181,7 @@ width: 200px;
 
 .project-card img {
   height: 10px;
-  align-items: center;
+  align-items: inline;
 }
 /* Recommendations */
 
