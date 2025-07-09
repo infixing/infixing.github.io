@@ -2,7 +2,7 @@
 layout: review
 title: Spooner, J. The High Desert: Black. Punk. Nowhere.
 category: Reviews
-tags: "graphic novels", memoir, "adult nonfic", punk
+tags: ["graphic novels", memoir, "adult nonfic", punk]
 ---
 <span class="title">The High Desert: Black. Punk. Nowhere.</span> by James Spooner<br>
 <span class="publisher">Harper, 2022. 368 pages.</span><br><br>
