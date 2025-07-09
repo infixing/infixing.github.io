@@ -2,7 +2,7 @@
 layout: review
 title: Tai, E. Yes Means Yes.
 category: Reviews
-tags: [picture_book, nonfiction, autonomy, consent]
+tags: ["picture books", nonfiction, autonomy, consent]
 ---
 <span class="title">Yes Means Yes</span>. Written by Elaine Tai. Illustrated by <a href="https://www.kaikwong.co/" target="_blank" alt="website of artist Kai Kwong">Kai Kwong</a>.<br>
 <span class="publisher">Self-published, 2022. 32 pages.</span><br>
