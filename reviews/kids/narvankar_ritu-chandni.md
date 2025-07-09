@@ -2,7 +2,7 @@
 layout: review
 title: Narvankar, A. Ritu Weds Chandni.
 category: Reviews
-tags: [picture_book, LGBTQIA+, india]
+tags: ["picture books", LGBTQIA+, india]
 ---
 <span class="title">Ritu Weds Chandni</span>. Written and illustrated by Ameya Narvankar.<br>
 <span class="publisher"><a href="https://yalibooks.com/books/ritu-weds-chandni/" target="_blank" title="Yali Books">Yali Books</a>, 2020. 38 pages.</span><br><br>
