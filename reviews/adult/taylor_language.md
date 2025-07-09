@@ -2,7 +2,7 @@
 layout: review
 title: Taylor, C. The Language Animal. The Full Shape of the Human Linguistic Capacity.
 category: Reviews
-tags: [language, linguistics, philosophy, "adult nonfiction"]
+tags: [language, linguistics, philosophy, "adult nonfic"]
 ---
 <span class="title">The Language Animal: The Full Shape of the Human Linguistic Capacity</span> by Charles Taylor.<br>
 <span class="publisher">Harvard University Press/Belknap, 2016. 368 pages.</span><br>
