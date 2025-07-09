@@ -2,7 +2,7 @@
 layout: review
 title: Cho, N. Saha. Translated from the Korean by J. Chang.
 category: Reviews
-tags: ["adult fiction", dystopia, korean, translated]
+tags: ["adult fiction", dystopia, korean, translations]
 ---
 <span class="title">Saha</span> by Nam-joo Cho. Translated from the Korean by Jamie Chang<br>
 <span class="publisher">W.W. Norton & Co./Liveright, 2023. 240 pages.</span><br><br>
