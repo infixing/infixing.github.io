@@ -2,7 +2,7 @@
 layout: review
 title: Faruqi, R. Anisa's International Day.
 category: Reviews
-tags: [middle_grade, pakistani, heritage, assumptions]
+tags: ["middle grade", pakistani, heritage, assumptions]
 ---
 <span class="title">Anisa's International Day</span> by Reem Faruqi.<br>
 <span class="publisher">HarperCollins Children's Books, 2022. 112 pages.</span><br><br>
