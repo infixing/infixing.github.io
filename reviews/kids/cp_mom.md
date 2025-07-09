@@ -2,7 +2,7 @@
 layout: review
 title: Child's Play. Up and Down Mom
 category: Reviews
-tags: [mental_health, bipolar_disorder, parents, mothers, picture_book, emotions]
+tags: ["mental health", "bipolar disorder", parents, mothers, "picture books", emotions]
 ---
 <span class="title">Up and Down Mom</span> by Child's Play Australia in collaboration with the Wellcome Trust. Illustrated by Summer Macon.<br>
 <span class="publisher">Child's Play Australia, 2020. 32 pages.</span><br><br>
