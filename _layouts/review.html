@@ -10,8 +10,7 @@ layout: default
 </div>
 
 <span class="post">
- [ {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr>&nbsp;</a>
-  {% endfor %}
-]</span>
+ {% for tag in page.tags %}
+      <a href="/tags/{{ tag | urlize }}">{{ tag }}</a>
+    {% endfor %}
+</span>
