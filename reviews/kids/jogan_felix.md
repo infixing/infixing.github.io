@@ -2,7 +2,7 @@
 layout: review
 title: Jogan, D. Felix After the Rain.
 category: Reviews
-tags: [translated, slovenian, "picture books", emotions]
+tags: ["picture books", emotions, translations, slovenian]
 ---
 <span class="title">Felix After the Rain</span> by Dunja Jogan. Translated from the Slovenian by Olivia Hellewell.<br>
 <span class="publisher"><a href="https://tinyowl.co.uk/" target="_blank" title="Tiny Owl Publishing">Tiny Owl Publishing</a>, 2020. 28 pages.</span><br><br>
