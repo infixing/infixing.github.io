@@ -2,7 +2,7 @@
 layout: review
 title: Curington, C. V., et al. The Dating Divide.
 category: Reviews
-tags: [dating, relationships, digital media, Internet]
+tags: [dating, relationships, "digital media", internet]
 ---
 <span class="title">The Dating Divide: Race and Desire in the Era of Online Romance</span> by Celeste Vaughan Curington, Jennifer H. Lundquist, and Ken-Hou Lin, eds.<br>
 <span class="publisher">University of California Press, 2021. 320 pages.</span><br><br>
