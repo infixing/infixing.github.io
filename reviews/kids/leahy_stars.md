@@ -2,7 +2,7 @@
 layout: review
 title: Leahy, E. Tethered to Other Stars
 category: Reviews
-tags: [middle_grade, immigration, family, community, Latinx]
+tags: ["middle grade", immigration, family, community, Latinx]
 ---
 <span class="title">Tethered to Other Stars.</span> Elisa Stone Leahy.<br>
 <span class="publisher">HarperCollins/Quill Tree, 2023. 320 pages.</span><br>
