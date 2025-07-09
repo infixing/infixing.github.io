@@ -1,6 +1,6 @@
 ---
 layout: review
-title: Spooner, J. The High Desert: Black. Punk. Nowhere.
+title: Spooner, J. The High Desert. Black. Punk. Nowhere.
 category: Reviews
 tags: ["graphic novels", memoir, "adult nonfic", punk]
 ---
