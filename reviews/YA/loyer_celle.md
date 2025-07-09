@@ -2,7 +2,7 @@
 layout: review
 title: Loyer, A. Celle que je suis.
 category: Reviews
-tags: [french_language, india, YA]
+tags: ["french language", india, YA]
 ---
 <span class="title">Celle que je suis</span> by Anne Loyer.<br>
 <span class="publisher">Slalom, 2019. 304 pages.</span><br><br>
