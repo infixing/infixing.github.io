@@ -2,13 +2,7 @@
 layout: review
 title: Allen-Angostini, A. Home Home.
 category: Reviews
-tags: 
-- mental_health
-- canadian
-- trinidadian
-- family
-- mothers
-- YA
+tags: "mental health" canadian trinidadian family mothers YA
 ---
 <span class="title">Home Home</span> by <a href="http://lisaallen-agostini.com/" target="_blank">Lisa Allen-Angostini</a>.<br>
 <span class="publisher">Delacorte Press, 2020. Originally published in 2018 by Papillote Press. 160 pages.</span><br><br>
